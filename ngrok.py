@@ -6,7 +6,7 @@ import json
 from recomend import *
 
 # ngrokトークンを設定(ngrokの自分のアカウントページからコピペ)
-conf.get_default().auth_token = "2UvZGihTU3UD3Edhx6k4gppNM2w_4DfLkYc7GdJQMAjKAT2df"
+conf.get_default().auth_token = "****************"
 
 app = Flask(__name__)
 
